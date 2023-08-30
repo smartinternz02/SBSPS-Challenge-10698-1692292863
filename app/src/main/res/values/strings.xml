@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ev station</string>
+    <string name="enter_battery_capicity">Enter battery capicity</string>
+    <string name="enter_battery_percentage">Enter battery percentage</string>
+
+    <string-array name="ev_facts">
+        <item>Electric cars produce zero tailpipe emissions!</item>
+        <item>Electric vehicles are energy efficient and cost-effective.</item>
+        <item>Charging an EV is cheaper than filling up a gas tank.</item>
+
+    </string-array>
+</resources>
